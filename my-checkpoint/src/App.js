@@ -35,7 +35,7 @@ function App() {
     <Form.Check type="checkbox" label="Check me out" />
   </Form.Group>
   <Button variant="primary" type="submit">
-    Submit
+    Submitt
   </Button>
 </Form>
    </Container>
